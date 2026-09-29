@@ -1,0 +1,25 @@
+data,produto,categoria,quantidade,preco
+2025-01-03,Mouse,Periféricos,4,50.00
+2025-01-05,Teclado,Periféricos,2,150.00
+2025-01-08,Monitor,Monitores,1,900.00
+2025-01-12,Notebook,Computadores,1,3200.00
+2025-01-15,Fone,Áudio,5,80.00
+2025-01-20,Cabo HDMI,Acessórios,10,25.00
+2025-01-27,Webcam,Periféricos,2,220.00
+2025-02-02,Mouse,Periféricos,3,50.00
+2025-02-04,Teclado,Periféricos,1,150.00
+2025-02-09,Headset,Áudio,3,250.00
+2025-02-11,Monitor,Monitores,2,900.00
+2025-02-14,Cabo HDMI,Acessórios,6,25.00
+2025-02-18,Notebook,Computadores,2,3200.00
+2025-02-21,Fone,Áudio,4,80.00
+2025-02-25,Webcam,Periféricos,1,220.00
+2025-03-01,Mouse,Periféricos,6,50.00
+2025-03-03,Monitor,Monitores,3,900.00
+2025-03-07,Headset,Áudio,2,250.00
+2025-03-10,Teclado,Periféricos,4,150.00
+2025-03-13,Notebook,Computadores,1,3200.00
+2025-03-17,Cabo HDMI,Acessórios,8,25.00
+2025-03-21,Fone,Áudio,6,80.00
+2025-03-24,Webcam,Periféricos,3,220.00
+2025-03-28,Mouse,Periféricos,2,50.00
